@@ -1,4 +1,4 @@
-# PowerBI_Global_Superstore_Sales_And_Expansion_Strategy
+# PowerBI | Global Superstore Market Expansion Strategy
 
 ## 📋 Table of Contents
 1. Overview
