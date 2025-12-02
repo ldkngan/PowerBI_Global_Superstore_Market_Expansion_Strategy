@@ -92,7 +92,7 @@ The dataset consists of **three tables:**
 <img width="1200" height="609" alt="image" src="https://github.com/user-attachments/assets/7a0649bc-749e-4a0a-ab3f-380c6f413483" />
 
 ### 📌 Stage 3 - Ideate
-<img width="1136" height="595" alt="image" src="https://github.com/user-attachments/assets/10a2185a-236b-49d9-8d3d-00998c535d06" />
+<img width="1136" height="582" alt="image" src="https://github.com/user-attachments/assets/1b431207-d15b-46f6-a270-5e05b261db63" />
 
 ---
 
