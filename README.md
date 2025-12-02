@@ -91,7 +91,7 @@ The dataset consists of **three tables:**
 ### 📌 Stage 2 - Define Point of View
 <img width="1200" height="609" alt="image" src="https://github.com/user-attachments/assets/7a0649bc-749e-4a0a-ab3f-380c6f413483" />
 
-### 📌 Stage 3 - Iteration
+### 📌 Stage 3 - Ideate
 <img width="1136" height="595" alt="image" src="https://github.com/user-attachments/assets/10a2185a-236b-49d9-8d3d-00998c535d06" />
 
 ---
