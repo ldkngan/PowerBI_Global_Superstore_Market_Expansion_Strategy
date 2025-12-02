@@ -3,7 +3,7 @@
 ## 📋 Table of Contents
 1. Overview
 2. Introduction to Dataset
-3. Design Thinking Process
+3. Design Thinking
 4. Visualizations & Key Insights
 5. Recommendations
 
